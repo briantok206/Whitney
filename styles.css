@@ -1,0 +1,31 @@
+body {
+  color: black;
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+}
+div,h1{
+  padding: 0px;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+.title {
+  color: red;
+  margin: 10px;
+}
+.subtext{
+  font-weight: bold;
+  padding: 0px;
+  margin: 0px;
+  font-size: 20px;
+}
+#countdown{
+  margin: 20px;
+  border: 1px black solid;
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#not_yet{
+  margin-top: 10px;
+  width: 100%;
+}
